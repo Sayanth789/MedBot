@@ -18,7 +18,8 @@ It allows users to ask medical questions and get answers based on trusted contex
 
 ## 🧠 How it Works
 
-1. Medical book (`MedBook`) is loaded and split into chunks  
+
+1. Medical book [`MedBook`](data/MedBook.pdf) is loaded and split into chunks  
 2. Text is converted into embeddings  
 3. Stored in a vector database (e.g., FAISS / Pinecone)  
 4. User question is embedded and matched with relevant chunks  
