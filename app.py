@@ -60,4 +60,8 @@ def chat():
 
 if __name__ == '__main__':
     # Using 8080 as requested
+<<<<<<< HEAD
     app.run(host="0.0.0.0", port=7860, debug=True)
+=======
+    app.run(host="0.0.0.0", port=8080, debug=True)
+>>>>>>> 01fb722 (Add The Med bot (Streamlit + LangChain))
