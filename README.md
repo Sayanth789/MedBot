@@ -34,7 +34,7 @@ It allows users to ask medical questions and get answers based on trusted contex
 - Llama 3 (8B)
 - Hugging Face / Ollama (depending on setup)
 - FAISS / Pinecone (vector database)
-- Streamlit (UI)
+- Flask (UI)
 
 ---
 
